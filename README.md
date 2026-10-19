@@ -12,5 +12,3 @@ goggles and RC-N controllers and shows / streams it. Image releases only — no 
    [balenaEtcher](https://etcher.balena.io/). No need to unpack the `.xz`.
 4. Put the card in the Pi 4B and power it on. Settings are in the web panel (see the
    QR code on the HDMI screen).
-
-The image has no SSH server and no root login; the root filesystem is read-only.
